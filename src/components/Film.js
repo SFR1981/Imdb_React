@@ -6,7 +6,7 @@ import React from 'react';
   return (
          <tr>
            <td>
-           plus image thing
+           <img src="images/addIcon.png"/>
            </td>
          <td>
             <h4>{props.title}</h4>
