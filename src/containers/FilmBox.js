@@ -17,9 +17,6 @@ class FilmBox extends React.Component {
     };
   }
 
-  newWindow(){
-
-    window.open("https://www.w3schools.com");
 }
   render(){
     return(
